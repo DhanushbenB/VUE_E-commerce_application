@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "json-server --watch db.json --port 3000 --no-static"
+    "start": "json-server --watch db.json --port 3000"
   },
   "name": "backend",
   "version": "1.0.0",
@@ -13,4 +13,5 @@
     "json-server": "^1.0.0-beta.5"
   }
 }
+
 
